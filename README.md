@@ -1,1 +1,2 @@
-This is a basic HTML project.
+# sample_html_proj
+Sample HTML project
